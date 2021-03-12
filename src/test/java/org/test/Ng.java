@@ -47,4 +47,14 @@ System.out.println("first book");
 		// TODO Auto-generated method stub
 System.out.println("first book");
 	}
+	@Test
+	private void how() {
+		// TODO Auto-generated method stub
+System.out.println("first book");
+	}
+	@Test
+	private void howdy() {
+		// TODO Auto-generated method stub
+System.out.println("first book");
+	}
 }
