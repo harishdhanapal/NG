@@ -31,5 +31,10 @@ System.out.println("bible");
 System.out.println("first book");
 	}
 	
+	@Test
+	private void genesiss() {
+		// TODO Auto-generated method stub
+System.out.println("first book");
+	}
 	
 }
